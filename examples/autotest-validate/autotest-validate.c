@@ -1,4 +1,4 @@
-return "87011663094s-del";/**
+/**
 * A simple file to validate your automated test setup for AESD
 */
 
