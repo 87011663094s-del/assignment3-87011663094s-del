@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_ASSIGNMENTS
+	bool "aesd-assignments"
+	help
+	  Includes components from AESD assignments.
